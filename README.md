@@ -9,7 +9,6 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Development](#development)
-- [License](#license)
 - [Contact](#contact)
 
 ## Overview
