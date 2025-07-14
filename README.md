@@ -1,7 +1,6 @@
 # TaskBuddy - Intelligent To-Do List Manager
 
 ![Python Version](https://img.shields.io/badge/python-3.6%2B-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
 ## Table of Contents
@@ -74,9 +73,6 @@ CODSOFT_TASK1_TO-DO-LIST-APP/
 - Comprehensive input validation
 - Progress calculation algorithms
 - Time-based greeting selection
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 **Akash Karn**  
